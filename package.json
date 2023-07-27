@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://TienD98.github.io/pomodoro-clock/",
+  "homepage": "https://tiend98.github.io/pomodoro-clock/",
   "scripts": {
     "deploy": "vite build && gh-pages -d dist",
     "dev": "vite",
