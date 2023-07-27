@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import Particles from 'particlesjs';
+import Particles from 'particles.js';
 import Clock from './features/clock';
 
 function App() {
